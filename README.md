@@ -17,7 +17,7 @@ Today's review will be in the form of "Choose Your Own Adventure": That is, whic
 # HTML/CSS
 
 #### Slides and Resources
-* [HTML, CSS, JavaScript for Google Engineers](https://drive.google.com/file/d/0B4LtxgXdHWjSZkpDbDhsckZOMDA/view)
+* [HTML, CSS, JavaScript for Google Engineers](https://drive.google.com/a/google.com/file/d/0B4LtxgXdHWjSZkpDbDhsckZOMDA/view)
   * These are slides from a 4-hour course Victoria used to teach to Google engineers on how to use HTML, CSS, and JS.
   * Detailed information about layout and positioning here! (floats, etc)
   * Read HTML and CSS, but **skip JavaScript** (requires advanced programming knowledge)
