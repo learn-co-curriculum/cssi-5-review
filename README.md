@@ -27,7 +27,7 @@ If you've completed all the labs and have other specific questions, flag down a 
 
 # HTML/CSS
 
-#### Slides and Resources
+Check out these slides and resources:
 * [HTML, CSS, JavaScript for Google Engineers](https://drive.google.com/a/google.com/file/d/0B4LtxgXdHWjSZkpDbDhsckZOMDA/view)
   * These are slides from a 4-hour course Victoria used to teach to Google engineers on how to use HTML, CSS, and JS.
   * Detailed information about layout and positioning here! (floats, etc)
@@ -36,6 +36,6 @@ If you've completed all the labs and have other specific questions, flag down a 
   * The first 5 lectures discuss HTML and CSS in detail
   * JavaScript is also discussed later in the course (though using raw JavaScript, no jQuery)
 
-#### Labs
+Try out a lab from University of Washington:
 * [Journal Lab](http://courses.cs.washington.edu/courses/cse154/15sp/labs/lab2-journal.shtml) **`NEW`**
   * Follow the instructions and ignore the bits that would only be relevant to UW students, i.e. checking in with a TA, uploading to "Webster"
