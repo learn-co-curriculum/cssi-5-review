@@ -7,11 +7,9 @@ Today's review will be in the form of "Choose Your Own Adventure": That is, whic
 
 # Python
 
-#### Resources
 
 # JavaScript / jQuery
 
-#### Labs
 * [Learn.co Deli Counter](https://learn.co/tracks/google-cssi/2-javascript-intro/labs/lab-deli-counter)
 * [Day 3 JavaScript review](https://github.com/learn-co-curriculum/cssi-3-javascript-warmup)
 * [Day 4 jQuery review](https://github.com/learn-co-curriculum/cssi-4-jquery-warmup)
