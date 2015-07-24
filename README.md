@@ -1,7 +1,7 @@
 # Day 5: Week 1 Review
 
 ## Instructions:
-Today's review will be in the form of "Choose Your Own Adventure": That is, whichever topic you'd like to review and complete the lab activities suggested.
+Today's review will be in the form of "Choose Your Own Adventure": That is, choose whichever topic you'd like to review and complete the lab activities suggested.
 
 ### If you'd like to review...
 
