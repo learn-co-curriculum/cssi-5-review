@@ -6,7 +6,7 @@ Today's review will be in the form of "Choose Your Own Adventure": That is, whic
 ### If you'd like to review...
 
 # Python
-* [Day 5 Python warmup](https://github.com/learn-co-curriculum/cssi-5-python-warmup) `NEW`
+* [Day 5 Python warmup](https://github.com/learn-co-curriculum/cssi-5-python-warmup) **`NEW`**
 * [Learn.co Nested lists and dictionaries](https://learn.co/tracks/google-cssi/4-python-intro/python-labs/lab-nested-lists-and-dictionaries)
 * [Learn.co Cartoon collections](https://learn.co/tracks/google-cssi/4-python-intro/python-labs/lab-cartoon-collections)
 
