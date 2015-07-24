@@ -6,7 +6,12 @@ Today's review will be in the form of "Choose Your Own Adventure": That is, whic
 ### If you'd like to review...
 
 # Python
+
+Begin the Day 5 Python warmup on loops, lists, and dictionaries:
 * [Day 5 Python warmup](https://github.com/learn-co-curriculum/cssi-5-python-warmup) **`NEW`**
+
+Finish the labs from the other days:
+
 * [Learn.co Nested lists and dictionaries](https://learn.co/tracks/google-cssi/4-python-intro/python-labs/lab-nested-lists-and-dictionaries)
 * [Learn.co Cartoon collections](https://learn.co/tracks/google-cssi/4-python-intro/python-labs/lab-cartoon-collections)
 
