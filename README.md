@@ -39,3 +39,5 @@ Check out these slides and resources:
 Try out a lab from University of Washington:
 * [Journal Lab](http://courses.cs.washington.edu/courses/cse154/15sp/labs/lab2-journal.shtml) **`NEW`**
   * Follow the instructions and ignore the bits that would only be relevant to UW students, i.e. checking in with a TA, uploading to "Webster"
+
+<a href='https://learn.co/lessons/cssi-5-review' data-visibility='hidden'>View this lesson on Learn.co</a>
